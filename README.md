@@ -45,6 +45,7 @@ website](https://bao.chimenet.ca/analysis_tutorial/).
 ## Tutorials
 
 - `ringmaps/`: how to load and interpret a ringmap.
+- `chime_ringmaps/`: how to load and manipulate a real ringmap on cedar
 
 
 
