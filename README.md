@@ -55,6 +55,7 @@ website](https://bao.chimenet.ca/analysis_tutorial/).
 - `chime_ringmaps/`: how to load and manipulate a real ringmap on cedar
 - `dataset_ids/`: how to understand and interpret the dataset_ids and fetch
   the relevant states from the database.
+- `baseband/`: decode kotekan baseband dumps for RFI testing.
 
 
 
