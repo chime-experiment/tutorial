@@ -40,7 +40,7 @@ install it from this [repository](https://github.com/chime-experiment/mkchimeenv
 The final and optional step is to install a *kernel* such that you can run this virtual
 environment in Jupyter. To do this activate your virtual environment as described above
 and then run `python -m ipykernel install --user --name <env name>`, where `<env name>`
-is a name of your choice that you will use to refer to it.
+is a name of your choice that you will use to refer to it. You may need to write a [kernel wrapper](https://docs.nersc.gov/services/jupyter/how-to-guides/#how-to-customize-a-kernel-with-a-helper-shell-script).
 
 
 ## Sample Data
